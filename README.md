@@ -283,9 +283,8 @@ $
 
 ## Authors :black_nib:
 
-* **Suara Ayomide** **||** [Github](https://github.com/Aysuarex) **|** [Twitter](https://twitter.com/Aysuarex) **|** [email](aysuarex@gmail.com)  
-* **Ismail Jamiu** **||** [Github](https://github.com/phantware) **|** [Twitter](https://twitter.com/IsmailJamiuBab1) **|** [email](phantmoney2011@gmail.com)
-
+* **Aribisala Rotimi ** **||** [Github](https://github.com/Thimmmm) **|
+* **Adeoye Adeyemi * **||** [Github](https://github.com/NeyoQuincy) **|*
 ## Acknowledgements :pray:
 
 **shellex** emulates basic functionality of the **sh** shell. This README borrows form the Linux man pages [sh(1)](https://linux.die.net/man/1/sh) and [dash(1)](https://linux.die.net/man/1/dash).
